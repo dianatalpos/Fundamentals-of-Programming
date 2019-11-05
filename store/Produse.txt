@@ -1,0 +1,4 @@
+90,mancare,18
+121,apa,19
+18,paie,19
+1213,bataie,10

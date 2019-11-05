@@ -1,0 +1,4 @@
+class GameError(Exception):
+    pass
+
+

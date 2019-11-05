@@ -1,0 +1,8 @@
+1  ,Math
+2  , Physics
+3  ,Computer Science
+ 4  , Chemistry
+5  , Biology
+6  , Music
+7 ,ASC
+8, Sport

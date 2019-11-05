@@ -1,0 +1,4 @@
+mode = inmemory
+file_students = StudentsPickle.pickle
+file_disciplines = DisciplinesPickle.pickle
+file_grades = GradesPickle.pickle
